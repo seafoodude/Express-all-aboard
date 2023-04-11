@@ -26,7 +26,7 @@
     N/A
   ## Screenshots
 
-  [screencastify](https://drive.google.com/file/d/1n6rtyIxn7xxfOwga70NyGUjE8i1dXTan/view)
+  [screencastify](https://drive.google.com/file/d/1_E98hca4T4P-60rDpqPW2xUhX15Q4EuB/view)
 
   ![Screenshot of Initial Page](./Assets/noteTakerscreen.PNG)
   ![Screenshot of Note taking Page](./Assets/notesSS.PNG)
