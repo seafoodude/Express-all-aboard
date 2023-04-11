@@ -2,7 +2,7 @@
 
   ## Description
 
-  This Express-all-aboard was created for boot camp students who were going through Module 11. It contains a note taker application that can save your notes, pull them up, and deleted them.
+  This Express-all-aboard was created for boot camp students who were going through Module 11. It contains a note taker application that can save your notes, pull them up, and delete them.
 
   ## Table of Contents
 
