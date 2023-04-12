@@ -21,7 +21,9 @@ https://fierce-plateau-81414.herokuapp.com/
 
   ## Usage
 
-  The app is used through commands in the terminal. Enter node server.js into the terminal, and open your browser with the localhost link provided. It will then take you to a web application that contains a get started button. Once clicked, it will take the user to the note page, where the user can write in note titles and text, and save it. The user can also pull their previously written notes from the left column into the right column. To write a new note, clicked the plus button in the top right corner. Click the save button to save the note. Click the red trash can next to each written note to delete the note.
+  The app can be used through commands in the terminal. Enter node server.js into the terminal, and open your browser with the localhost link provided. It will then take you to a web application that contains a get started button. Once clicked, it will take the user to the note page, where the user can write in note titles and text, and save it. The user can also pull their previously written notes from the left column into the right column. To write a new note, clicked the plus button in the top right corner. Click the save button to save the note. Click the red trash can next to each written note to delete the note.
+
+  This app can also be used through heroku, in which I have the deployed link at the top of this README. 
 
   ## License
 
