@@ -10,7 +10,7 @@ const writeFileAsync = util.promisify(fs.writeFile)
 
 //establishing Server
 const app = express()
-const PORT = process.env.PORT || 8000
+const PORT = process.env.PORT || 3001;
 
 app.use(express.urlencoded({ extended:true }))
 app.use(express.json())
@@ -27,7 +27,7 @@ app.get("/api/notes", function(req, res) {
 })
 
 //POST request
-app.post("/api/notes", function(req, res) {
+app.post("/api/notes", (req, res) => {
     const note = req.body
     readFileAsync("./develop/db/db.json", "utf8").then(function(data){
         const notes = [].concat(JSON.parse(data))
